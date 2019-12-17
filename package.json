@@ -8,6 +8,8 @@
     "gradle",
     "maven-plugin",
     "gradle-plugin",
+    "generator-maven",
+    "generator-gradle",
     "generator-maven-plugin",
     "generator-gradle-plugin"
   ],
